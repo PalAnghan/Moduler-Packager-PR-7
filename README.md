@@ -1,108 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Moduler%20%26%20Packager&fontSize=48&fontColor=39FF14&fontAlignY=45&desc=A%20Python%20Multi-Utility%20Toolkit&descAlignY=65&descSize=18&descColor=00D9FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:FF8C00,50:39FF14,75:00D9FF,100:B026FF&height=220&section=header&text=Moduler%20%26%20Packager&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=%3C%3C%20Python%20Multi-Utility%20Toolkit%20%3E%3E&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-```
-$ python main.py
-> Loading toolkit... [datetime] [math] [random] [uuid] [custom modules] ✔
-> Ready. Choose an option: _
-```
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="4">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=Built-in+modules+meet+custom+packages;dir()+lets+you+explore+everything+live;__name__+%3D%3D+%22__main__%22+done+right" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=FF0080,39FF14,00D9FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=%F0%9F%9A%80+datetime+%E2%80%A2+math+%E2%80%A2+random+%E2%80%A2+uuid;%F0%9F%A7%A9+custom+modules+%2B+packages;%F0%9F%94%8D+dir()+%3D+explore+everything+LIVE" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,vscode,git,github&theme=dark" />
+<img src="https://media.giphy.com/media/L1R1tvL9vlrxC/giphy.gif" width="90"/>&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/QTfX9eTsWtEuY/giphy.gif" width="90"/>&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/xUOxf6RRP9Cf2rjkla/giphy.gif" width="90"/>
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
-![Status](https://img.shields.io/badge/status-completed-39FF14?style=flat-square)
-![Modules](https://img.shields.io/badge/dependencies-stdlib%20only-00D9FF?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-purple?style=flat-square)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=palanghan.moduler-packager-pr-7&style=for-the-badge&color=FF0080)
+![Python](https://img.shields.io/badge/PYTHON-3.12-39FF14?style=for-the-badge&logo=python&logoColor=black&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00D9FF?style=for-the-badge&labelColor=000000)
+![Vibes](https://img.shields.io/badge/VIBES-IMMACULATE-B026FF?style=for-the-badge&labelColor=000000)
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="4">
+
+</div>
+
+<div align="center">
+
+```
+█▓▒░ "Quality is our Motto." — Shaping "skills" for "scaling" higher...!!! ░▒▓█
+```
 
 </div>
 
 <br/>
 
-> *"Quality is our Motto." — Shaping "skills" for "scaling" higher...!!!*
+## 🛸 Overview
 
----
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### `$ cat table_of_contents.txt`
+`Moduler & Packager` is a menu-driven **Python Multi-Utility Toolkit** engineered to show off Python's modular system top to bottom — built-in modules, hand-rolled custom modules, and real packages, wired together behind one slick interface.
 
-<table>
-<tr>
-<td valign="top" width="33%">
+It runs on `datetime`, `time`, `math`, `random`, and `uuid` from the standard library, then layers a custom `utilities` package on top — file ops, calculations, identifiers, and more — every piece inspectable **live** through `dir()`.
 
-**Concept**
-- [Overview](#-overview)
-- [Objective](#-objective)
-- [Tech Stack](#-tech-stack)
+<br clear="right"/>
 
-</td>
-<td valign="top" width="33%">
-
-**Build**
-- [File Structure](#-file-structure)
-- [Installation](#-installation)
-- [Usage](#-usage)
-
-</td>
-<td valign="top" width="33%">
-
-**Extras**
-- [Demo Video](#-demo-video)
-- [Sample Run](#-sample-run)
-- [Author](#-author)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 Overview
-
-`Moduler & Packager` is a menu-driven **Python Multi-Utility Toolkit** built to show off Python's modular design end to end — built-in modules, hand-rolled custom modules, and proper packages, all wired together through a clean interface layer.
-
-It leans on `datetime`, `time`, `math`, `random`, and `uuid` from the standard library, then extends them with a custom `utilities` package (file ops, calculations, identifiers, and more) — every piece inspectable at runtime via `dir()`.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Objective
 
-| Goal | How it's done |
-|---|---|
-| Use built-in modules practically | `datetime`, `time`, `math`, `random`, `uuid` wired into real tasks |
-| Build custom modules & packages | `interface/` and `utilities/` packages, each with `__init__.py` |
-| Organize scripts properly | `__name__ == "__main__"` guard on every module |
-| Explore dynamically | Live `dir()` inspection of any built-in or custom module |
+<table>
+<tr>
+<td width="25%" align="center">⚡<br><b>Built-in Power</b><br><sub><code>datetime</code> <code>time</code> <code>math</code><br><code>random</code> <code>uuid</code></sub></td>
+<td width="25%" align="center">🧩<br><b>Custom Packages</b><br><sub><code>interface/</code> +<br><code>utilities/</code> w/ <code>__init__.py</code></sub></td>
+<td width="25%" align="center">🛡️<br><b>Clean Scripts</b><br><sub><code>__name__ == "__main__"</code><br>on every module</sub></td>
+<td width="25%" align="center">🔬<br><b>Live Exploration</b><br><sub>runtime <code>dir()</code><br>inspection</sub></td>
+</tr>
+</table>
 
-## 🛠 Tech Stack
+## ✨ Features
 
-<div align="center">
+<details open>
+<summary><b>⏰ Datetime & Time Module</b></summary>
+<br>
 
-`Python 3.12` · `Standard Library Only` · `VS Code` · `Console UI`
+![](https://progress-bar.dev/100/?title=complete&color=39FF14&width=300)
 
-</div>
+- Display current date & time
+- Diff between two dates/times
+- Custom `strftime` formatting
+- Stopwatch + countdown timer
+
+</details>
+
+<details open>
+<summary><b>🧮 Math Module</b></summary>
+<br>
+
+![](https://progress-bar.dev/100/?title=complete&color=00D9FF&width=300)
+
+- Trigonometry, factorials, logarithms
+- Compound interest calculator
+- Geometric shape area solver
+
+</details>
+
+<details open>
+<summary><b>🎲 Random + 🆔 UUID Modules</b></summary>
+<br>
+
+![](https://progress-bar.dev/100/?title=complete&color=FF0080&width=300)
+
+- Random numbers, lists, secure passwords, OTPs
+- Dataset sampling & simple game simulations
+- UUID4-based unique identifiers
+
+</details>
+
+<details open>
+<summary><b>🗂️ Custom File Ops + 🔍 Module Explorer</b></summary>
+<br>
+
+![](https://progress-bar.dev/100/?title=complete&color=B026FF&width=300)
+
+- Create / write / read / append via reusable functions
+- Explore attributes of **any** module live with `dir()`
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="4">
 
 ## 🗂 File Structure
 
 ```mermaid
 flowchart TD
-    A["main.py — entry point"] --> B["interface package"]
-    B --> C["menu.py — main menu & routing"]
-    A --> D["utilities package"]
+    A(["🚀 main.py"]) --> B["📦 interface/"]
+    B --> C["menu.py"]
+    A --> D["📦 utilities/"]
     D --> E["date_tools.py"]
     D --> F["calculation_tools.py"]
     D --> G["random_tools.py"]
     D --> H["identifier_tools.py"]
     D --> I["storage_tools.py"]
     D --> J["explore_tools.py"]
-    A --> K["files/ — sample & generated output"]
+    A --> K["📁 files/"]
+
+    style A fill:#FF0080,color:#fff
+    style B fill:#39FF14,color:#000
+    style D fill:#00D9FF,color:#000
+    style K fill:#B026FF,color:#fff
 ```
 
 <details>
-<summary><b>📁 Raw tree view</b></summary>
+<summary>📁 raw tree</summary>
 
 ```
 Python_MultiUtility/
@@ -133,11 +161,9 @@ cd Moduler-Packager-PR-7/Python_MultiUtility
 python main.py
 ```
 
-No pip installs, no `requirements.txt` — everything runs on the standard library.
+> 🟢 Zero dependencies — pure standard library.
 
 ## 🚀 Usage
-
-Launch `main.py`, then navigate the numbered menu:
 
 ```
 1. Datetime and Time Operations
@@ -149,97 +175,60 @@ Launch `main.py`, then navigate the numbered menu:
 7. Exit
 ```
 
-Every sub-menu loops back to the main menu, so you can chain operations without restarting.
-
 ## 🎬 Demo Video
 
 <div align="center">
 
-```
-[ ▶ demo video not attached yet — will drop it in right here ]
-```
+<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="220"/>
+
+**🚧 Demo video incoming — will be embedded right here 🚧**
 
 </div>
 
 ## 📟 Sample Run
 
-<table>
-<tr><td>
+```diff
++ Enter your choice: 1 → Display current date and time
++ Current Date and Time: 2025-01-04 10:15:30
 
-```
-Enter your choice: 1 → Display current date and time
-Current Date and Time: 2025-01-04 10:15:30
-```
++ Enter your choice: 2 → Calculate Factorial
++ Enter a number: 5
++ Factorial: 120
 
-</td></tr>
-<tr><td>
-
++ Enter module name to explore: math
++ ['acos', 'acosh', 'asin', 'asinh', 'atan', 'atanh', 'ceil', 'comb', ...]
 ```
-Enter your choice: 2 → Calculate Factorial
-Enter a number: 5
-Factorial: 120
-```
-
-</td></tr>
-<tr><td>
-
-```
-Enter module name to explore: math
-['acos', 'acosh', 'asin', 'asinh', 'atan', 'atanh', 'ceil', 'comb', ...]
-```
-
-</td></tr>
-</table>
 
 ## 📦 Deliverables & Evaluation
 
-<table>
-<tr><th>Deliverables</th><th>Evaluated on</th></tr>
-<tr><td>
+| 📦 Deliverables | 📊 Evaluated On |
+|---|---|
+| Menu-driven Python source | Functionality |
+| Custom modules & packages | Code structure & modularity |
+| Sample outputs (logs, IDs, reports) | Documentation |
+| — | Innovation |
 
-- Menu-driven Python source
-- Custom modules & packages
-- Sample outputs (logs, IDs, reports)
-
-</td><td>
-
-- Functionality
-- Code structure & modularity
-- Documentation
-- Innovation
-
-</td></tr>
-</table>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="4">
 
 ## 👤 Author
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
 
-**Pal Anghan**
-<br/>
-Final-year BCA · AI/ML in progress
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=39FF14,00D9FF,FF0080&center=true&vCenter=true&width=500&lines=Pal+Anghan;Final-year+BCA+%7C+AI-ML+in+progress" alt="Author Typing SVG"/>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/-palanghan8@gmail.com-black?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:palanghan8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-pal--anghan-black?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/pal-anghan)
-[![GitHub](https://img.shields.io/badge/-PalAnghan-black?style=flat-square&logo=github&logoColor=white)](https://github.com/PalAnghan)
+[![Gmail](https://img.shields.io/badge/-palanghan8@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:palanghan8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-pal--anghan-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/pal-anghan)
+[![GitHub](https://img.shields.io/badge/-PalAnghan-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PalAnghan)
 
-</td>
-</tr>
-</table>
 </div>
 
----
+<br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,25:00D9FF,50:39FF14,75:FF8C00,100:FF0080&height=150&section=footer&animation=twinkling" width="100%"/>
 
-`>>> Thank you for using the Multi-Utility Toolkit! 🌟`
+<sub>⭐ if this toolkit helped you — it keeps the neon lights on ⭐</sub>
 
 </div>

@@ -221,9 +221,9 @@ python main.py
 
 <div align="center">
 
-![Coming Soon](https://img.shields.io/badge/DEMO%20VIDEO-COMING%20SOON-FF0080?style=for-the-badge&labelColor=000000)
+https://drive.google.com/file/d/1ZsGVVlvWmFsgwtqoTe9lPWsKIBkLAXVv/view?usp=sharing
 
-*Will be embedded right here once recorded.*
+
 
 </div>
 

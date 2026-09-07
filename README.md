@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:FF8C00,50:39FF14,75:00D9FF,100:B026FF&height=220&section=header&text=Moduler%20%26%20Packager&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=%3C%3C%20Python%20Multi-Utility%20Toolkit%20%3E%3E&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:39FF14,100:00D9FF&height=200&section=header&text=Moduler%20%26%20Packager&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%3C%3C%20Python%20Multi-Utility%20Toolkit%20%3E%3E&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="4">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=FF0080,39FF14,00D9FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=%F0%9F%9A%80+datetime+%E2%80%A2+math+%E2%80%A2+random+%E2%80%A2+uuid;%F0%9F%A7%A9+custom+modules+%2B+packages;%F0%9F%94%8D+dir()+%3D+explore+everything+LIVE" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=FF0080,39FF14,00D9FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=%F0%9F%9A%80+datetime+%E2%80%A2+math+%E2%80%A2+random+%E2%80%A2+uuid;%F0%9F%A7%A9+custom+modules+%2B+packages;%F0%9F%94%8D+dir()+%3D+explore+everything+LIVE" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://media.giphy.com/media/L1R1tvL9vlrxC/giphy.gif" width="90"/>&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/QTfX9eTsWtEuY/giphy.gif" width="90"/>&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/xUOxf6RRP9Cf2rjkla/giphy.gif" width="90"/>
+<img src="https://skillicons.dev/icons?i=py,vscode,git,github&theme=dark" />
 
 <br/><br/>
 
@@ -19,32 +15,65 @@
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00D9FF?style=for-the-badge&labelColor=000000)
 ![Vibes](https://img.shields.io/badge/VIBES-IMMACULATE-B026FF?style=for-the-badge&labelColor=000000)
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="4">
-
 </div>
 
 <div align="center">
 
-```
-█▓▒░ "Quality is our Motto." — Shaping "skills" for "scaling" higher...!!! ░▒▓█
-```
+
 
 </div>
 
-<br/>
+---
 
+## 📡 Table of Contents
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Start Here**
+- [Overview](#overview)
+- [Objective](#objective)
+- [Prerequisites](#prerequisites)
+
+</td>
+<td valign="top" width="25%">
+
+**Explore**
+- [Features](#features)
+- [File Structure](#file-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+
+</td>
+<td valign="top" width="25%">
+
+**See It Run**
+- [Demo Video](#demo-video)
+- [Sample Run](#sample-run)
+- [Deliverables](#deliverables)
+
+</td>
+<td valign="top" width="25%">
+
+**Beyond**
+- [Key Learnings](#key-learnings)
+- [Roadmap](#roadmap)
+- [FAQ](#faq)
+- [Author](#author)
+
+</td>
+</tr>
+</table>
+
+<a id="overview"></a>
 ## 🛸 Overview
-
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 `Moduler & Packager` is a menu-driven **Python Multi-Utility Toolkit** engineered to show off Python's modular system top to bottom — built-in modules, hand-rolled custom modules, and real packages, wired together behind one slick interface.
 
 It runs on `datetime`, `time`, `math`, `random`, and `uuid` from the standard library, then layers a custom `utilities` package on top — file ops, calculations, identifiers, and more — every piece inspectable **live** through `dir()`.
 
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<a id="objective"></a>
 ## 🎯 Objective
 
 <table>
@@ -56,6 +85,17 @@ It runs on `datetime`, `time`, `math`, `random`, and `uuid` from the standard li
 </tr>
 </table>
 
+<a id="prerequisites"></a>
+## ✅ Prerequisites
+
+| Requirement | Notes |
+|---|---|
+| 🐍 Python 3.10+ | 3.12 recommended, matches dev environment |
+| 🖥️ Any OS | Windows / macOS / Linux — pure stdlib, no OS-specific calls |
+| 📦 No pip installs | Everything used ships with Python itself |
+| 🧰 Optional: VS Code | Project was built and tested in VS Code |
+
+<a id="features"></a>
 ## ✨ Features
 
 <details open>
@@ -106,8 +146,7 @@ It runs on `datetime`, `time`, `math`, `random`, and `uuid` from the standard li
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="4">
-
+<a id="file-structure"></a>
 ## 🗂 File Structure
 
 ```mermaid
@@ -153,6 +192,7 @@ Python_MultiUtility/
 
 </details>
 
+<a id="installation"></a>
 ## ⚙️ Installation
 
 ```bash
@@ -163,6 +203,7 @@ python main.py
 
 > 🟢 Zero dependencies — pure standard library.
 
+<a id="usage"></a>
 ## 🚀 Usage
 
 ```
@@ -175,16 +216,18 @@ python main.py
 7. Exit
 ```
 
+<a id="demo-video"></a>
 ## 🎬 Demo Video
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="220"/>
+![Coming Soon](https://img.shields.io/badge/DEMO%20VIDEO-COMING%20SOON-FF0080?style=for-the-badge&labelColor=000000)
 
-**🚧 Demo video incoming — will be embedded right here 🚧**
+*Will be embedded right here once recorded.*
 
 </div>
 
+<a id="sample-run"></a>
 ## 📟 Sample Run
 
 ```diff
@@ -199,6 +242,7 @@ python main.py
 + ['acos', 'acosh', 'asin', 'asinh', 'atan', 'atanh', 'ceil', 'comb', ...]
 ```
 
+<a id="deliverables"></a>
 ## 📦 Deliverables & Evaluation
 
 | 📦 Deliverables | 📊 Evaluated On |
@@ -208,26 +252,80 @@ python main.py
 | Sample outputs (logs, IDs, reports) | Documentation |
 | — | Innovation |
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="4">
+<a id="key-learnings"></a>
+## 🧠 Key Learnings
 
+- 📦 How to turn a folder of scripts into real Python **packages** with `__init__.py`
+- 🛡️ Why `__name__ == "__main__"` matters when modules are imported vs run directly
+- 🔍 Using `dir()` to inspect any object or module dynamically, at runtime
+- 🧩 Structuring a growing console app into an `interface` layer + `utilities` logic layer instead of one giant script
+
+<a id="roadmap"></a>
+## 🛣️ Roadmap & Future Improvements
+
+- [ ] Add unit tests for each utility module
+- [ ] Persist logs/outputs into structured JSON instead of plain `.txt`
+- [ ] Package the toolkit for `pip install -e .` style local installs
+- [ ] Add colorized console output for better UX
+
+<a id="faq"></a>
+## ❓ FAQ & Troubleshooting
+
+<details>
+<summary><b>ModuleNotFoundError when running main.py</b></summary>
+<br>
+
+Make sure you're running `main.py` **from inside** the `Python_MultiUtility/` folder, so Python can resolve the `interface` and `utilities` packages correctly.
+
+</details>
+
+<details>
+<summary><b>dir() explorer shows too much noise</b></summary>
+<br>
+
+That's expected — `dir()` returns *every* attribute on a module, including dunder methods. The explorer is meant for quick discovery, not a curated API reference.
+
+</details>
+
+<details>
+<summary><b>Can I add my own utility module?</b></summary>
+<br>
+
+Yes — drop a new `.py` file into `utilities/`, add an import in `interface/menu.py`, and wire it into the main menu the same way the existing tools are wired in.
+
+</details>
+
+---
+
+<a id="author"></a>
 ## 👤 Author
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=39FF14,00D9FF,FF0080&center=true&vCenter=true&width=500&lines=Pal+Anghan;Final-year+BCA+%7C+AI-ML+in+progress" alt="Author Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:39FF14,100:00D9FF&height=4&width=700" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=800&color=39FF14,00D9FF,FF0080&center=true&vCenter=true&width=500&height=50&lines=Pal+Anghan" alt="Name Typing SVG"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1200&color=B026FF&center=true&vCenter=true&width=450&height=30&lines=Final-year+BCA+Student;Learning+Python+%26+AI-ML;Open+to+Internships+%F0%9F%9A%80" alt="Role Typing SVG"/>
+
+<br/><br/>
 
 [![Gmail](https://img.shields.io/badge/-palanghan8@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:palanghan8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-pal--anghan-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/pal-anghan)
 [![GitHub](https://img.shields.io/badge/-PalAnghan-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PalAnghan)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:39FF14,100:FF0080&height=4&width=700" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,25:00D9FF,50:39FF14,75:FF8C00,100:FF0080&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:39FF14,100:FF0080&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 <sub>⭐ if this toolkit helped you — it keeps the neon lights on ⭐</sub>
 
